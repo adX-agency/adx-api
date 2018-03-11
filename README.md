@@ -1,4 +1,10 @@
-# Neon-dapp API Server 
+<p align="center">
+<img src="https://github.com/adX-agency/adx-blockchain/raw/master/logo.png" width="150px">
+</p>
+
+<h1 align="center">adX API</h1>
+
+<p align="center">NEO API for  adX  </p>
 
 Based on [ NEO dApp Starter Kit by @Deanpress ](https://github.com/deanpress/neo-dapp-starter-kit) 
 
